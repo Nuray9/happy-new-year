@@ -9,5 +9,5 @@ with open("input.txt") as f:
         paper_summ += summ
 
 
-with open("output.txt", "w") as f:
+with open("output1.txt", "w") as f:
     print(paper_summ, file=f)
