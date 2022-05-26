@@ -15,5 +15,5 @@ for i in range(len(st)):
         break
 
 
-with open("output1.txt", "w") as f:
+with open("output2.txt", "w") as f:
     print(k, file=f)
