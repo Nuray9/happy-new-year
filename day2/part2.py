@@ -7,6 +7,6 @@ with open("input.txt") as f:
         b = l * w * h
         k += (r + b)
 
-with open("output1.txt", "w") as f:
+with open("output2.txt", "w") as f:
     print(k, file=f)
     
